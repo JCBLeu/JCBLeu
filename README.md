@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JCBLeu
+- 👀 I’m interested in learning more python
+- 🌱 I’m currently learning python 3
+- 💞️ I’m looking to collaborate on any project i can handle
+- 📫 You can reach me over discord at Bleu#3211
